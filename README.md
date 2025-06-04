@@ -1,0 +1,9 @@
+- Creating tools that enhance decision quality in uncertain or complex contexts
+- Experience with embedded platforms, DevSecOps, and interface design
+- Graduate Systems Security Certificate: Colorado State University
+- Graduate Systems Engineering credits: Colorado State University (3.9 GPA)
+- B.S. in Computer Science & minor in Math: MSU Denver (3.3 GPA)
+- Completed training for: CISSP, SSCP, Security+, ASEP
+- Tools I rely on: Neovim, tmux, fzf, ripgrep
+- Languages I admire: Lua, Rust
+- Ongoing interests: security, Go, human factors, AWS
